@@ -1,4 +1,6 @@
+-f https://download.pytorch.org/whl/torch_stable.html
+torch==1.8.1+cpu 
+torchvision==0.9.1+cpu
+fastai==1.0.52
 gunicorn
 Flask==1.0.2
-https://download.pytorch.org/whl/cpu/torch-1.0.1.post2-cp36-cp36m-linux_x86_64.whl
-fastai==1.0.52
